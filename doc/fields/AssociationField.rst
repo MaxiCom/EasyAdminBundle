@@ -107,7 +107,7 @@ author will show a dropdown list to select one of the available authors.
 
 However, sometimes the associated property refers to a `value object`_. For example,
 a ``Customer`` entity related to an ``Address`` entity or a ``Server`` entity
-related to an ``IpAddres`` entity.
+related to an ``IpAddress`` entity.
 
 In these cases it doesn't make sense to display a dropdown with all the
 (potentially millions!) addresses. Instead, it's better to embed the form fields
